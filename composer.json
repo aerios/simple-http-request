@@ -14,8 +14,8 @@
         "ext-curl":"*"
     },
     "autoload":{
-        "psr-0":{
-            "Simplehttp":"src/"
+        "psr-4":{
+            "Simplehttp\\":"src/"
         }
     }
 }
